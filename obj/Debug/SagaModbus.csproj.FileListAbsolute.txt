@@ -1,0 +1,6 @@
+D:\Luis Henrique\Desktop\Projetos\SagaModbus\bin\Debug\SagaModbus.dll
+D:\Luis Henrique\Desktop\Projetos\SagaModbus\bin\Debug\SagaModbus.pdb
+D:\Luis Henrique\Desktop\Projetos\SagaModbus\obj\Debug\SagaModbus.csproj.AssemblyReference.cache
+D:\Luis Henrique\Desktop\Projetos\SagaModbus\obj\Debug\SagaModbus.csproj.CoreCompileInputs.cache
+D:\Luis Henrique\Desktop\Projetos\SagaModbus\obj\Debug\SagaModbus.dll
+D:\Luis Henrique\Desktop\Projetos\SagaModbus\obj\Debug\SagaModbus.pdb
